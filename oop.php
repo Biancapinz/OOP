@@ -10,14 +10,14 @@ include_once './Adotante.php';
 // animal
 echo "<h3>Animal</h3>";
 /*$animal  = new Animal();
-$animal->nome = 'Harry';
-$animal->especie = 'gato';
-$animal->idade = 4;
+$animal->nome = 'comilão';
+$animal->especie = 'Gato';
+$animal->idade = 7;
 $animal->sexo = 'macho';
-$animal->peso = 7;
-$animal->cor = 'frajola';
+$animal->peso = 10;
+$animal->cor = 'preto';
 $animal->status = 'adotado';
-$animal->chipado = 'nao possui chip de identificação';
+$animal->chipado = 'possui chip de identificação';
 
 echo  $animal->exibirFicha();
 echo $animal->verificarPeso();
